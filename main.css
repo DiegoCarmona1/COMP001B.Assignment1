@@ -9,3 +9,9 @@ h1 {
 #copyright {
     font-size: small;
 }
+img {
+    width: 25%;
+    border: 10px black;
+    padding: 5px;
+    margin: 20px;
+}
